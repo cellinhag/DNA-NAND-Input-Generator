@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # Author: Marcella Grillo
 # Date:   29/08/2018
 # Filename: init.py
