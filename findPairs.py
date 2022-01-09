@@ -218,7 +218,7 @@ class findMatches(object):
             for i in range(r):
                 result += self.charToNum(string[i])
         else:
-            print("You fuck up!")
+            print("Invalid!")
 
         if self.debug:
             print("Debug: Result is " + result)
